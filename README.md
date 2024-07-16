@@ -1,1 +1,2 @@
-admins, hospital chrges module added
+Hospital management system
+

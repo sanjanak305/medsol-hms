@@ -1,0 +1,29 @@
+search_input= Prachi
+new_admin_firstname=Prachi 
+new_admin_lastname= kam
+new_admin_email= prachkam@gmail.com
+new_admin_password= abcdef
+new_admin_phone=8123456789
+new_admin_DOB=
+new_gender=0
+edit_admin_firstname=Prachi
+edit_admin_lastname=Kamtalwar
+edit_admin_email=prachkam@gmail.com
+edit_phone=9876543210
+edit_DOB=
+edit_gender=1
+
+search_input_cc=CHARGE55
+cc_input=CHARGE55
+description=maintainance charges
+edit_cc_input=CHARGE55
+edit_description=maintenance charges
+
+search_input_charge=abc
+code=abc555
+std_charge=5000
+description_charge=abcdefghijklmnopqrstuvwyz
+edit_code=abcd555
+edit_std_charge=7000
+edit_dscrptn=
+	
